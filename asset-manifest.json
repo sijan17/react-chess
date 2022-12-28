@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-chess/static/css/main.57b47666.css",
+    "main.js": "/react-chess/static/js/main.dcbd1d6b.js",
+    "static/js/845.2de7c7d0.chunk.js": "/react-chess/static/js/845.2de7c7d0.chunk.js",
+    "static/js/787.497f1025.chunk.js": "/react-chess/static/js/787.497f1025.chunk.js",
+    "static/media/captureSound.mp3": "/react-chess/static/media/captureSound.d76028bec3f03f7216b9.mp3",
+    "static/media/moveSound.mp3": "/react-chess/static/media/moveSound.c58f415927ab83a28b85.mp3",
+    "static/media/startSound.mp3": "/react-chess/static/media/startSound.83760f9e39f06ae6f109.mp3",
+    "index.html": "/react-chess/index.html",
+    "main.57b47666.css.map": "/react-chess/static/css/main.57b47666.css.map",
+    "main.dcbd1d6b.js.map": "/react-chess/static/js/main.dcbd1d6b.js.map",
+    "845.2de7c7d0.chunk.js.map": "/react-chess/static/js/845.2de7c7d0.chunk.js.map",
+    "787.497f1025.chunk.js.map": "/react-chess/static/js/787.497f1025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57b47666.css",
+    "static/js/main.dcbd1d6b.js"
+  ]
+}
