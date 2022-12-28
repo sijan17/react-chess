@@ -1,0 +1,20 @@
+.board{
+    width: 480px;
+    height: 480px;
+    border: 1px solid black;
+    margin: 0  auto;
+    display: grid;
+    grid-template-columns: repeat(8, 60px);
+    background: transparent;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+
+    /* .board{
+        width: 320px;
+        height: 320px;
+    } */
+
+}

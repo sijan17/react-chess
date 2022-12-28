@@ -1,0 +1,51 @@
+.tile{
+    width: 60px;
+    height: 60px;
+    display: grid;
+    place-content: center;
+    place-items: center;
+    
+}
+
+.tile-dark{
+    background-color: rgb(36, 160, 73);
+}
+
+.tile-white{
+    background-color: white;
+}
+
+.piece:hover{
+    cursor: pointer;
+}
+
+.piece:active{
+    /* cursor: grabbing; */
+}
+
+.active{
+    background-color: rgb(98, 98, 199);
+}
+
+.legal{
+    position: absolute;
+    background-color: green;
+    height: 5px;
+    width: 5px;
+    border-radius: 50% ;
+}
+
+
+.piece{
+    height: 60px;
+    width: 60px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    /* .tile{
+        width: 40px;
+        height: 40px;
+    } */
+
+}
